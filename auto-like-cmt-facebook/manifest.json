@@ -1,8 +1,8 @@
 {
-    "name": "Auto Like Comment Facebook",
+    "name": "Auto Comment Facebook",
     "manifest_version": 2,
-    "version": "1.6",
-    "description": "Auto like comment facebook extension by Keycode Mon",
+    "version": "2.0",
+    "description": "Auto comment facebook extension by Keycode Mon",
     "content_scripts": [{
         "matches": [
            "https://m.facebook.com/*"
